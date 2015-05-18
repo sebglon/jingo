@@ -108,7 +108,7 @@ For Google, follow these instructions (you need to be logged in in Google):
 * Now open _APIs & auth_ => _Credentials_ and click on _Create new client id_
 * Here you need to specify the base URL of your jingo installation. Google will fill in automatically the other field
   with a `/oauth2callback` URL, which is fine
-* Now you need to copy the `Client ID` and `Client secret` in your jingo config file in the proper places
+* Now you need to copy the `Client ID`, `Client secret` and `domain` in your jingo config file in the proper places
 
 For GitHub, follow these instructions (you need to be logged in in GitHub):
 
